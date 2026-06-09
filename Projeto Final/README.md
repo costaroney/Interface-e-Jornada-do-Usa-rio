@@ -8,7 +8,7 @@
 https://www.figma.com/make/GDxQmR7njr7tUBjUu169xk/schedule.ai?fullscreen=1&t=FIbspEZZReDlhGFj-1&code-node-id=0-9
 
 **Vídeo de Apresentação:**
-*(Inserir link do vídeo)*
+https://acadcruzeirodosul-my.sharepoint.com/:v:/g/personal/roney_almeida_cs_udf_edu_br/IQA4no8NxML3RaJ1sdua2aIrAYoqoDWQNCS90LaG2Qdmq78?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S6dcrX
 
 ---
 
